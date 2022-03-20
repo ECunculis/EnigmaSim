@@ -1,0 +1,16 @@
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.exe
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.deps.json
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.runtimeconfig.json
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.runtimeconfig.dev.json
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.dll
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\ref\EnigmaSim.dll
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\bin\Debug\net5.0\EnigmaSim.pdb
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.csproj.AssemblyReference.cache
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.AssemblyInfoInputs.cache
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.AssemblyInfo.cs
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.csproj.CoreCompileInputs.cache
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.dll
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\ref\EnigmaSim.dll
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.pdb
+C:\Users\Emils\Desktop\Mini-projects\Enigma\EnigmaSim\EnigmaSim\obj\Debug\net5.0\EnigmaSim.genruntimeconfig.cache

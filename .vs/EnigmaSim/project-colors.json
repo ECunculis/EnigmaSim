@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d32a4832-529b-4125-b7e2-6ab7c10ffd32": {
+      "ProjectGuid": "d32a4832-529b-4125-b7e2-6ab7c10ffd32",
+      "DisplayName": "EnigmaSim",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
