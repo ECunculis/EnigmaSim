@@ -10,7 +10,7 @@ The Enigma machine was considered so secure that it was used to encipher the mos
 
 There are many Enigma models, but this application simulates the Enigma I model. Initially, the machine was supplied with three coding wheels, that could be 
 inserted in any of 6 possible orders (3 x 2 x 1). In December 1938, two additional wheels were supplied, bringing the total number of possible wheel orders 
-to 60 (5 x 4 x 3), a 10-fold increase in cipher security![1]](#1)
+to 60 (5 x 4 x 3), a 10-fold increase in cipher security![[1]](#1)
 
 
 The machine was used throughout WWII and is known under various names. It is officially known as Enigma I and by its factory designator: Ch.11a.
