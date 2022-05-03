@@ -1,5 +1,7 @@
 # EnigmaSim
-This is Enigma I encryption machine simulator
+This is Enigma I encryption machine simulator. Once run, you will be asked to provide the rotors' numbers
+
+![image](https://user-images.githubusercontent.com/31374191/166457445-bbe12802-a7d4-4538-8338-821814010360.png)
 
 # About Enigma I machine
 The Enigma machine is a cipher device developed and used in the early to mid-20th century to protect commercial, 
@@ -12,6 +14,8 @@ to 60 (5 x 4 x 3), a 10-fold increase in cipher security![1]](#1)
 
 
 The machine was used throughout WWII and is known under various names. It is officially known as Enigma I and by its factory designator: Ch.11a.
+
+
 
 ## References
 <a id="1">[1]</a> 
