@@ -1,5 +1,5 @@
 # EnigmaSim
-This is Enigma I encryption machine simulator. Once run, you will be asked to provide the rotors' numbers
+This is Enigma I encryption machine simulator. Once run, you will be asked to provide the rotors' index number from 1 to 5, because Enigma I model has 5 different rotors. They will be fed into model from left to right. For each rotor it is necessary to provide the ring position. After that provide the pluckboard settings. To ignore pluckboard, press enter, otherwise enter the settings which comprises of letter pairs separated with space. Finally, enter the text which you want to encrypt. Keep in mind that enigma machine is capable to encrypt only letters, that is why all spaces will be substituted with "X".
 
 ![image](https://user-images.githubusercontent.com/31374191/166457445-bbe12802-a7d4-4538-8338-821814010360.png)
 
