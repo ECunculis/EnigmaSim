@@ -68,7 +68,8 @@ namespace EnigmaSim {
                 encrypted += encryptedLetter;
                 // Advance the rotors one step forward
                 // Advance first rotor by 1 step
-                //Console.WriteLine("");
+
+                Console.WriteLine("");
             }
 
             return encrypted;
