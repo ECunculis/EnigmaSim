@@ -1,9 +1,15 @@
-# EnigmaSim
-This is Enigma I encryption machine simulator. Once run, you will be asked to provide the rotors' index number from 1 to 5, because Enigma I model has 5 different rotors. They will be fed into model from left to right. For each rotor it is necessary to provide the ring position. After that provide the pluckboard settings. To ignore pluckboard, press enter, otherwise enter the settings which comprises of letter pairs separated with space. Finally, enter the text which you want to encrypt. Keep in mind that enigma machine is capable to encrypt only letters, that is why all spaces will be substituted with "X". The encryption and decryption processes are symmetric which means that to decrypt the message that was encrypted you have to use the same rotor and pluckboard settings which was set up before encryption process and then type the encrypted text. 
+<h1 align="center">Enigma I simulator</h1>
+
+## Table of Contents
+1. [Description](#description)
+2. [About Enigma I machine](#about-enigma-i-machine)
+
+## Description
+This is Enigma I encryption machine simulator fully written in C#. Once run, you will be asked to provide the rotors' index number from 1 to 5, because Enigma I model has 5 different rotors. They will be fed into model from left to right. For each rotor it is necessary to provide the ring position. After that provide the pluckboard settings. To ignore pluckboard, press enter, otherwise enter the settings which comprises of letter pairs separated with space. Finally, enter the text which you want to encrypt. Keep in mind that enigma machine is capable to encrypt only letters, that is why all spaces will be substituted with "X". The encryption and decryption processes are symmetric which means that to decrypt the message that was encrypted you have to use the same rotor and pluckboard settings which was set up before encryption process and then type the encrypted text. 
 
 ![image](https://user-images.githubusercontent.com/31374191/166457445-bbe12802-a7d4-4538-8338-821814010360.png)
 
-# About Enigma I machine
+## About Enigma I machine
 The Enigma machine is a cipher device developed and used in the early to mid-20th century to protect commercial, 
 diplomatic, and military communication. It was employed extensively by Nazi Germany during World War II, in all branches of the German military. 
 The Enigma machine was considered so secure that it was used to encipher the most top-secret messages.
